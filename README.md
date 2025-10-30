@@ -8,8 +8,6 @@ A real-time invisibility cloak implementation using OpenCV and computer vision. 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🎥 Demo
-*(Add a screenshot or video demo here)*
 
 ## ✨ Features
 - Real-time invisibility effect using color detection
