@@ -20,5 +20,5 @@ A real-time invisibility cloak implementation using OpenCV and computer vision. 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Usaid786467/yellow-invisibility-cloak.git
-cd yellow-invisibility-cloak
+git clone https://github.com/Usaid786467/Invisible-Yellow-Cloak.git
+
